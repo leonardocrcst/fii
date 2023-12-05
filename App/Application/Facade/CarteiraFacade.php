@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Application;
+namespace App\Application\Facade;
 
 use App\Domain\Model\Carteira;
 use App\Domain\Model\Fundo;

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Application;
+namespace App\Application\Facade;
 
 use App\Domain\Model\Fundo;
 use App\Domain\Model\Repository\FundoRepository;

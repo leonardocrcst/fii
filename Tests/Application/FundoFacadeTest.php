@@ -2,7 +2,7 @@
 
 namespace Application;
 
-use App\Application\FundoFacade;
+use App\Application\Facade\FundoFacade;
 use App\Domain\Model\Fundo;
 use App\Domain\Model\Repository\FundoRepository;
 use App\Domain\Repository\DatabaseManager;
